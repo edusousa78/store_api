@@ -1,4 +1,14 @@
 # TDD Project
+Aproveitnado o excente trabalho da Expert [Nayanna Nara](https://github.com/nayannanara), pude de alguma forma acompanhar o processo de preparação e testes neste projeto incrível.
+
+## Dificuldades encontradas
+Da mesma forma que houve em alguns projetos anteriores, tive muitas dificuldades em acompanhar os métodos ensinados nas instruções, devido às versões das dependências do Python.
+
+## Agradecimentos
+
+Agradeço a Nayanna por seu empenho em nos instruir de forma exemplar e também a DIO por abrir esse espaço para todos que querem aprender.
+
+Respeitosamente irei aproveitar o desenvolvimeto da Expert. Lembrando que foi desenvolvido junto aos trenamentos um projeto local, mas optei por seguir este que ficou bem eleborado.
 
 ## O que é TDD?
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
